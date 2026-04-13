@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.AssemblyInfo.cs
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\greeting.wav
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.exe
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.deps.json
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.runtimeconfig.json
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.dll
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\bin\Debug\net8.0\CybersecurityChatbot.pdb
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.dll
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\refint\CybersecurityChatbot.dll
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.pdb
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\CybersecurityChatbot.genruntimeconfig.cache
+C:\Users\Student\Desktop\C#\CybersecurityChatbot\CybersecurityChatbot\obj\Debug\net8.0\ref\CybersecurityChatbot.dll
