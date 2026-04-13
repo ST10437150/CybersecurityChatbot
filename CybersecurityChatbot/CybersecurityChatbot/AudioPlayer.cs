@@ -28,6 +28,7 @@ namespace CybersecurityChatbot
                     Console.WriteLine("  [Audio file not found]");
                     Console.ResetColor();
                 }
+                
             }
             catch (Exception)
             {
