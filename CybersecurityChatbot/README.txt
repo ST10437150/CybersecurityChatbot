@@ -29,6 +29,6 @@ cybersecurity topics through an interactive GUI interface.
 - C# (.NET 8)
 - WPF (Windows Presentation Foundation)
 - winmm.dll for audio playback
-
+-Add keyword recognition
 ## Author
 Adelia Antonio
