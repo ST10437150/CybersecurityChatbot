@@ -111,3 +111,4 @@ namespace CybersecurityChatbot
         }
     }
 }
+// Sentiment detection implemented
