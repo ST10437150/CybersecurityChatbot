@@ -251,4 +251,4 @@ namespace CybersecurityChatbot
             return -1;
         }
     }
-}
+} // task 1: task assistent implemented
