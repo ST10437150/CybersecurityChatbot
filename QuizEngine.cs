@@ -189,4 +189,4 @@ namespace CybersecurityChatbot
 
         public void StopQuiz() { IsActive = false; AwaitingAnswer = false; }
     }
-}
+} // task 2: quiz implemented
