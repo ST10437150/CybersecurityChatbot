@@ -29,4 +29,4 @@ namespace CybersecurityChatbot
             return result.TrimEnd();
         }
     }
-}
+} // Task 4: Activity log implemented
